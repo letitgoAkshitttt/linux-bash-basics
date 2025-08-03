@@ -21,7 +21,7 @@ bash scriptname.sh
 
 - `hello.sh`: Prints Hello World
 - `sysinfo.sh`: Shows basic system info
-- `backup.sh`: Backup script (to be added)
+- `backup.sh`: Backup script for compressing and storing specified directories
 - `organize.sh`: File organizer (to be added)
 - `todo.sh`: Simple CLI todo manager (to be added)
 
